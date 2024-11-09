@@ -17,3 +17,6 @@ https://github.com/2303A51929/2303A51929/blob/main/SVM(1929).ipynb
 
 
 https://github.com/2303A51929/2303A51929/blob/main/1929_Decision_Tree.ipynb
+
+
+https://github.com/2303A51929/2303A51929/blob/main/Exam_(1929).ipynb
